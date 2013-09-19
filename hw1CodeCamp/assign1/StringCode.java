@@ -70,6 +70,9 @@ public class StringCode {
 	 * more.
 	 */
 	public static boolean stringIntersect(String a, String b, int len) {
+		Set<String> set1 = new HashSet<String>();
+		Set<String> set2 = new HashSet<String>();
+		
 		return false; // TO DO ADD YOUR CODE HERE
 	}
 }
